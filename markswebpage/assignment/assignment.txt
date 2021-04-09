@@ -1,0 +1,28 @@
+﻿Develop Coding: Assignment
+
+
+Student Name: Mark Brooks
+
+
+Q1. I used many different tools in creating my website. From using Trello as a project hub to gather research and resources to using websites such as CodePen and CloudFlare to quickly test and try out different outcomes. While these weren’t necessarily essential to the project, they definitely helped streamline the process. Also if anyone were to join the project, I feel good management of the Trello board, as far as development was concerned, would bring them up to speed much easier. My website is aimed at my friends and family and is essentially about me and my dog. I used the Flow Chart maker at app.diagrams.net to create a mood board and a quick sketch of the site. After completing that I moved the project into Visual Studio to try and recreate it. I was impressed with the flexibility CSS allowed and found it quite straightforward to build the website.
+
+
+Q2. I will be using flex boxes as I want my website to have a navigation bar at the top for accessibility. I wanted users to be able to access any page from any other page. I found skills in testing and problem solving are vital when it comes to building the website. I often found myself adding bits of code and seeing what happens. If it worked then great, if not then I would go back and try something else. If something happened unexpectedly then I would go and figure out why and Visual Studio was a great tool in aiding this. I remember 20 years ago writing html in notepad scratching my head for hours when the problem was a simple syntax error. The resources I gathered were largely my own, mainly my photos. I did use a font from google fonts which I found really helpful. It’s amazing to see how something as small as changing the font can change the character of the site. I also used a few icon images which were downloaded from various websites.
+
+
+Q3. While looking for content to use I was aware that copyright could be an issue. I made sure to use my own photos or graphics from free to use websites. I have been made aware that copyright also protects my own designs and programming code. Copyright and intellectual property law seems to be quite complicated so I think it would be advantageous to enlist the help of a qualified legal professional if I were to ever take on contractual work. To avoid any issues with software piracy, I made sure all programs, operating systems or tools I used were legitimate licensed copies. There are also privacy and electronic communications regulations which protects the users privacy and covers things like the use of cookies or if your site collects any other personal information. The GDPR states that personal information is anything that can be used to identify a person such as their IP address, location data, physical attributes, name, information about health, any identification numbers and the economic, cultural or social identity of a person.
+
+
+Q4. I used Virtual Studio exclusively to make the website. I found it to be a great tool fit for purpose. I really like the way it points out syntax errors and how it suggests functions as you type them out. I would like if there was an in-built browser so you could change bits of code and see it update in real time. I found that half the time I was switching back and forth between Visual Studio and my browser and then refreshing to see the changes.
+
+
+Q5. To test my website I would try it out in the few browsers that I have on my machine. To take that a step further I could ask friends and family with different browsers and operating systems and ask them for feedback. I used .HTML to make the content of my website as that’s what the internet uses. I then used .CSS to style the content in the .HTML so I could create a uniformity across my pages. It’s important to aim for accessibility as there are a wide range of people who may have disabilities that can’t access the internet by traditional means. There are tools such as text to speech that can aid users. From the development side of things it could be as simple as having short equivalents for images, icons and buttons. Describing content on charts and diagrams. Use brief descriptions for non text content such as audio and video files. Labelling controls, user inputs and other interface components.
+
+
+Q6. I spent so much time trying to put things where I wanted them to be, in the future I will use more flex boxes to save myself the headache. Sketching the site beforehand helped a lot as I wasn’t trying to code and design it at the same time. First I could concentrate on how I want it to look and then I could focus on building it in Visual Studio.
+
+
+Q7. So I’ve used my site as a personal page. I will also use it to host this assignment and possibly the python game we made. I think my website is clean and easy to navigate and I feel it is fit for purpose. In the future I would use flex boxes for better structure control. I have been able to achieve what I set out to do but flex boxes would definitely have made things much easier.
+
+
+Q8. Here you’ll find images of my website uploaded to github and working on Google Chrome and Microsoft Edge.
