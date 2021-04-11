@@ -1,0 +1,106 @@
+/* this will be the stylesheet
+    for my webpages*/
+
+    @import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&family=Open+Sans&display=swap');
+
+
+body {
+    background-image: url("images/IMG_20210407_121602.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+.wrapper {
+    background-color: #2c7bb094;
+    background-image: radial-gradient(#53b0ee94, rgb(20, 51, 70));
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul.navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: 'Londrina Solid', cursive;
+    font-size: 150%;
+    }
+      
+li {
+    float: left;
+    }
+   
+
+a:link.nav_links {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+      
+a:hover.nav_links {
+    background-color: #111111;
+    }
+
+a:visited.nav_links {
+    color: rgb(255, 255, 255);
+    }
+
+h1 {
+    font-family: 'Londrina Solid', cursive;
+    font-size: 500%;
+}
+
+h3 {
+    font-family: 'Londrina Solid', cursive;
+}
+
+.main {
+    box-sizing: border-box;
+    padding: 0.1% 0% 0.1% 0%;
+    margin: 1% 35% 1%;
+    border-radius: 200px;
+    border-style: solid;
+    border-color: #000000;
+    background-image: linear-gradient(rgb(255, 255, 255), grey);
+    color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img_display {
+    border-radius: 200px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 30%;
+    height: 30%;
+}
+
+.img_icons {
+    width: 10%;
+    height: 10%;
+    padding: 5%;
+}
+
+p.p1 {
+    box-sizing: border-box;
+    padding: 2%;
+    margin: 0% 5% 20% 5%;
+    border-radius: 200px;
+}
+
+.quotes {
+    display: flex;
+    justify-content: center;
+    background-color: #091c29;
+    padding: 1%;
+}
